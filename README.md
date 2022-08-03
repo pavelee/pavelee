@@ -4,4 +4,4 @@
 
 # My portfolio
 ## hackathons
-### [Usage of AI transcript speech tool](https://github.com/pavelee/react-deepgram-example)
+### [Usage of AI transcript speech tool - boost your react app accessibility](https://github.com/pavelee/react-deepgram-example)
