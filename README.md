@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @pavelee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pavelee/pavelee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My projects
+## hackathons
+### Usage of AI transcript speech tool https://github.com/pavelee/react-deepgram-example
