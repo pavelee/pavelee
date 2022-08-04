@@ -4,6 +4,7 @@
 
 # My portfolio
 ## Notes
+### [Personal notes about anything](https://github.com/pavelee/my-notes)
 ## Next.js & tailwindcss
 ### [Business Card](https://github.com/pavelee/business-card)
 ## hackathons
