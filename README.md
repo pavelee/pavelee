@@ -3,6 +3,7 @@
 👋 Hi, I’m @pavelee
 
 # My portfolio
+## Notes
 ## Next.js & tailwindcss
 ### [Business Card](https://github.com/pavelee/business-card)
 ## hackathons
