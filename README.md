@@ -7,7 +7,7 @@
 ### [Personal notes about anything](https://github.com/pavelee/my-notes)
 ## Next.js & tailwindcss
 ### [Business Card](https://github.com/pavelee/business-card)
-## React
+## ⚛️ React
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## Docker
 ### [Docker Swarm Playground](https://github.com/pavelee/docker-swarm-playground)
