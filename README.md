@@ -12,4 +12,4 @@
 ### [Dummy App Stresser](https://github.com/pavelee/dummy-app-stresser)
 ## hackathons
 ### [Usage of AI transcript speech tool - boost your react app accessibility](https://github.com/pavelee/react-deepgram-example)
-### [Forum App using redis as primary database](https://github.com/pavelee/stoa-redis-stack)
+### [Forum App using redis as a primary database](https://github.com/pavelee/stoa-redis-stack)
