@@ -9,7 +9,7 @@
 ### [Business Card](https://github.com/pavelee/business-card)
 ## ⚛️ React
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
-## Docker
+## 🐳 Docker
 ### [Next.js Docker Template](https://github.com/pavelee/next-js-docker)
 ### [Next.js Tailwindcss Template](https://github.com/pavelee/next-js-tailwindcss-docker)
 ### [Docker Swarm Playground](https://github.com/pavelee/docker-swarm-playground)
