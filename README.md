@@ -10,6 +10,7 @@
 ## ⚛️ React
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## Docker
+### [Next.js Docker Template](https://github.com/pavelee/next-js-docker)
 ### [Docker Swarm Playground](https://github.com/pavelee/docker-swarm-playground)
 ### [Dummy App Stresser](https://github.com/pavelee/dummy-app-stresser)
 ## hackathons
