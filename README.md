@@ -7,6 +7,8 @@
 ### [Business Card](https://github.com/pavelee/business-card)
 ## ⚛️ React
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
+## 🤖 RPA
+### [Robotframework in docker](https://github.com/pavelee/robot-framework-docker)
 ## 🍽️ boilerplate
 ### [Docker + Next.js + typescript](https://github.com/pavelee/next-js-docker)
 ### [Docker + Next.js + typescript + tailwindcss](https://github.com/pavelee/next-js-tailwindcss-docker)
