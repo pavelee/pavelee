@@ -11,6 +11,8 @@
 ## 🍽️ boilerplate
 ### [Docker + Next.js + typescript](https://github.com/pavelee/next-js-docker)
 ### [Docker + Next.js + typescript + tailwindcss](https://github.com/pavelee/next-js-tailwindcss-docker)
+## 🔥 Nodejs
+### [Nodejs Playground container](https://github.com/pavelee/nodejs-docker)
 ## 🐳 Docker
 ### [Next.js Docker Template](https://github.com/pavelee/next-js-docker)
 ### [Next.js Tailwindcss Template](https://github.com/pavelee/next-js-tailwindcss-docker)
