@@ -20,5 +20,6 @@
 ### [Dummy App Stresser](https://github.com/pavelee/dummy-app-stresser)
 ### [Linux Playground Container](https://github.com/pavelee/linux-docker)
 ## hackathons
+### [Programmer Testing Tool with AI assistance](https://github.com/pavelee/dev-gym)
 ### [Usage of AI transcript speech tool - boost your react app accessibility](https://github.com/pavelee/react-deepgram-example)
 ### [Forum App using redis as a primary database](https://github.com/pavelee/stoa-redis-stack)
