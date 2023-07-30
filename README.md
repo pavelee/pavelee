@@ -9,12 +9,12 @@
 ## 🤖 RPA
 ### [Robotframework in docker](https://github.com/pavelee/robot-framework-docker)
 ## 🍽️ boilerplate
+### [Docker + Next.js 13 + typescript](https://github.com/pavelee/docker-next13)
 ### [Docker + Next.js + typescript](https://github.com/pavelee/next-js-docker)
 ### [Docker + Next.js + typescript + tailwindcss](https://github.com/pavelee/next-js-tailwindcss-docker)
 ## 🔥 Nodejs
 ### [Nodejs Playground container](https://github.com/pavelee/nodejs-docker)
 ## 🐳 Docker
-### [Next.js 13 Docker Template](https://github.com/pavelee/docker-next13)
 ### [Next.js Docker Template](https://github.com/pavelee/next-js-docker)
 ### [Next.js Tailwindcss Template](https://github.com/pavelee/next-js-tailwindcss-docker)
 ### [Docker Swarm Playground](https://github.com/pavelee/docker-swarm-playground)
