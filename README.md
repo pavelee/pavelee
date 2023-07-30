@@ -15,8 +15,6 @@
 ## 🔥 Nodejs
 ### [Nodejs Playground container](https://github.com/pavelee/nodejs-docker)
 ## 🐳 Docker
-### [Next.js Docker Template](https://github.com/pavelee/next-js-docker)
-### [Next.js Tailwindcss Template](https://github.com/pavelee/next-js-tailwindcss-docker)
 ### [Docker Swarm Playground](https://github.com/pavelee/docker-swarm-playground)
 ### [Dummy App Stresser](https://github.com/pavelee/dummy-app-stresser)
 ### [Linux Playground Container](https://github.com/pavelee/linux-docker)
