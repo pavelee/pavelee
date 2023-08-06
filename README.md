@@ -2,6 +2,8 @@
 
 👋 Hi, I’m @pavelee
 
+## Notes
+### [My Notes](https://github.com/pavelee/my-notes)
 ## Next.js & tailwindcss
 ### [Business Card](https://github.com/pavelee/business-card)
 ## ⚛️ React
