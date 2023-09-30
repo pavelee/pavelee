@@ -2,6 +2,8 @@
 
 👋 Hi, I’m @pavelee
 
+[![An image of @pavelee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavelee)](https://holopin.io/@pavelee)
+
 ## Notes
 ### [My Notes](https://github.com/pavelee/my-notes)
 ## Next.js & tailwindcss
