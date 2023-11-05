@@ -9,6 +9,7 @@
 ## Next.js & tailwindcss
 ### [Business Card](https://github.com/pavelee/business-card)
 ## ⚛️ React
+### [React Content Manager](https://github.com/pavelee/react-content-manager)
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## 🤖 RPA
 ### [Robotframework in docker](https://github.com/pavelee/robot-framework-docker)
