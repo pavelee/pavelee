@@ -4,10 +4,6 @@
 
 [![An image of @pavelee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavelee)](https://holopin.io/@pavelee)
 
-## Notes
-### [My Notes](https://github.com/pavelee/my-notes)
-## Next.js & tailwindcss
-### [Business Card](https://github.com/pavelee/business-card)
 ## ⚛️ React
 ### [React Content Manager](https://github.com/pavelee/react-content-manager)
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
