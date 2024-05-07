@@ -11,6 +11,8 @@
 ### [Programmer Testing Tool with AI assistance](https://github.com/pavelee/dev-gym)
 ### [Usage of AI transcript speech tool - boost your react app accessibility](https://github.com/pavelee/react-deepgram-example)
 ### [Forum App using redis as a primary database](https://github.com/pavelee/stoa-redis-stack)
+## Notes
+### [Jak pisać dobre User Story?](https://github.com/pavelee/my-notes/blob/main/kursy/Jak%20pisać%20dobre%20User%20Story/notes.md)
 ## ⚛️ React
 ### [React Content Manager](https://github.com/pavelee/react-content-manager)
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
