@@ -12,8 +12,11 @@
 ### [Usage of AI transcript speech tool - boost your react app accessibility](https://github.com/pavelee/react-deepgram-example)
 ### [Forum App using redis as a primary database](https://github.com/pavelee/stoa-redis-stack)
 ## Notes
-### [Domain Driven Design 🔥](https://github.com/pavelee/my-notes/blob/main/kursy/DDD/notes.md)
-### [Jak pisać dobre User Story?](https://github.com/pavelee/my-notes/blob/main/kursy/Jak%20pisać%20dobre%20User%20Story/notes.md)
+### Courses
+#### [Domain Driven Design 🔥](https://github.com/pavelee/my-notes/blob/main/kursy/DDD/notes.md)
+#### [Jak pisać dobre User Story?](https://github.com/pavelee/my-notes/blob/main/kursy/Jak%20pisać%20dobre%20User%20Story/notes.md)
+### Posts
+#### [Getting the Current URL in Next.js Server Components](https://github.com/pavelee/my-notes/blob/main/posty/Getting%20the%20Current%20URL%20in%20Next.js%20Server%20Components.md)
 ## ⚛️ React
 ### [React Content Manager](https://github.com/pavelee/react-content-manager)
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
