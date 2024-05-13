@@ -5,6 +5,7 @@
 [![An image of @pavelee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavelee)](https://holopin.io/@pavelee)
 
 ## hackathons
+### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
 ### [Coze.com AI chatbot contest - dev.to chatbot](https://dev.to/pavelee/devto-chat-bot-1di3)
 ### [Markdown editor with AI assistance (cloudflare AI cloud)](https://github.com/pavelee/cloudflare-challange-post-ai)
 ### [CSS art challange](https://github.com/pavelee/css_art)
