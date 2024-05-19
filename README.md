@@ -6,7 +6,7 @@
 
 ## hackathons
 ### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
-### [Coze.com AI chatbot contest - dev.to chatbot](https://dev.to/pavelee/devto-chat-bot-1di3)
+### [Coze.com AI chatbot contest - dev.to chatbot 🤖](https://dev.to/pavelee/devto-chat-bot-1di3)
 ### [Markdown editor with AI assistance (cloudflare AI cloud)](https://github.com/pavelee/cloudflare-challange-post-ai)
 ### [CSS art challange](https://github.com/pavelee/css_art)
 ### [Programmer Testing Tool with AI assistance](https://github.com/pavelee/dev-gym)
