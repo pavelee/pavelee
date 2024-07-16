@@ -18,6 +18,7 @@
 #### [Jak pisać dobre User Story?](https://github.com/pavelee/my-notes/blob/main/kursy/Jak%20pisać%20dobre%20User%20Story/notes.md)
 ### Posts
 #### [Getting the Current URL in Next.js Server Components](https://github.com/pavelee/my-notes/blob/main/posty/Getting%20the%20Current%20URL%20in%20Next.js%20Server%20Components.md)
+#### [Write SOLID React Hooks](https://github.com/pavelee/my-notes/blob/main/posty/write-solid-react-hooks.md)
 ## ⚛️ React
 ### [React Content Manager](https://github.com/pavelee/react-content-manager)
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
