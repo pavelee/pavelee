@@ -14,7 +14,7 @@
 ### [Forum App using redis as a primary database](https://github.com/pavelee/stoa-redis-stack)
 ## Notes
 ### Courses
-#### [Domain Driven Design 🔥](https://github.com/pavelee/my-notes/blob/main/kursy/DDD/notes.md)
+#### [Domain Driven Design 🔥](https://github.com/pavelee/my-notes/blob/main/kursy/DDD/ddd-notes.md)
 #### [Jak pisać dobre User Story?](https://github.com/pavelee/my-notes/blob/main/kursy/Jak%20pisać%20dobre%20User%20Story/notes.md)
 ### Posts
 #### [Getting the Current URL in Next.js Server Components](https://github.com/pavelee/my-notes/blob/main/posty/Getting%20the%20Current%20URL%20in%20Next.js%20Server%20Components.md)
