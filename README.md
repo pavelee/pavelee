@@ -4,7 +4,10 @@
 
 [![An image of @pavelee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavelee)](https://holopin.io/@pavelee)
 
-## hackathons
+## 📚 Libraries
+### [React Content Manager](https://github.com/pavelee/react-content-manager)
+### [UseAxios hook](https://github.com/pavelee/useaxios)
+## ⏱️ hackathons
 ### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
 ### [Coze.com AI chatbot contest - dev.to chatbot 🤖](https://dev.to/pavelee/devto-chat-bot-1di3)
 ### [Markdown editor with AI assistance (cloudflare AI cloud)](https://github.com/pavelee/cloudflare-challange-post-ai)
@@ -19,9 +22,6 @@
 ### Posts
 #### [Getting the Current URL in Next.js Server Components](https://github.com/pavelee/my-notes/blob/main/posty/Getting%20the%20Current%20URL%20in%20Next.js%20Server%20Components.md)
 #### [Write SOLID React Hooks](https://github.com/pavelee/my-notes/blob/main/posty/write-solid-react-hooks.md)
-## ⚛️ React
-### [React Content Manager](https://github.com/pavelee/react-content-manager)
-### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## 🤖 RPA
 ### [Robotframework in docker](https://github.com/pavelee/robot-framework-docker)
 ## 🍽️ boilerplate
