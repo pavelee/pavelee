@@ -9,6 +9,7 @@
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## 🧸 Games
 ### [Flappy Bird Clone](https://github.com/pavelee/flappy-bird-clone)
+### [Idle Food](https://github.com/pavelee/idle-food-bar)
 ## ⏱️ hackathons
 ### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
 ### [Coze.com AI chatbot contest - dev.to chatbot 🤖](https://dev.to/pavelee/devto-chat-bot-1di3)
