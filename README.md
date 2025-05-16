@@ -10,6 +10,7 @@
 ## 🧸 Games
 ### [Flappy Bird Clone](https://github.com/pavelee/flappy-bird-clone)
 ### [Idle Food](https://github.com/pavelee/idle-food-bar)
+### [Platformer Game](https://github.com/pavelee/platformer-up)
 ## ⏱️ hackathons
 ### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
 ### [Coze.com AI chatbot contest - dev.to chatbot 🤖](https://dev.to/pavelee/devto-chat-bot-1di3)
