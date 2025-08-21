@@ -8,9 +8,9 @@
 ### [React Content Manager](https://github.com/pavelee/react-content-manager)
 ### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## 🧸 Games
-### [Flappy Bird Clone](https://github.com/pavelee/flappy-bird-clone)
-### [Idle Food](https://github.com/pavelee/idle-food-bar)
-### [Platformer Game](https://github.com/pavelee/platformer-up)
+
+Itch.io portfolio -> [https://pavelee.itch.io](https://pavelee.itch.io)
+
 ## ⏱️ hackathons
 ### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
 ### [Coze.com AI chatbot contest - dev.to chatbot 🤖](https://dev.to/pavelee/devto-chat-bot-1di3)
