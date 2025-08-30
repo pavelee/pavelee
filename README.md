@@ -4,12 +4,13 @@
 
 [![An image of @pavelee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavelee)](https://holopin.io/@pavelee)
 
-## 📚 Libraries
-### [React Content Manager](https://github.com/pavelee/react-content-manager)
-### [UseAxios hook](https://github.com/pavelee/useaxios)
 ## 🧸 Games
 
 Itch.io portfolio -> [https://pavelee.itch.io](https://pavelee.itch.io)
+
+## 📚 Libraries
+### [React Content Manager](https://github.com/pavelee/react-content-manager)
+### [UseAxios hook](https://github.com/pavelee/useaxios)
 
 ## ⏱️ hackathons
 ### [Minify your images and save the planet 🌍](https://github.com/pavelee/optimizer-netlify-challenge)
